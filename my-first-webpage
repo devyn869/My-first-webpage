@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>About Me</title>
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to My Page</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#interests">Interests</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Hello! I am learning web development and building my first web page using semantic HTML.</p>
+            <img src="placeholder.jpg" alt="A descriptive description of the image goes here">
+        </section>
+
+        <section id="interests">
+            <h2>My Interests</h2>
+            <p>Here are a few things I enjoy doing:</p>
+            <ul>
+                <li>Coding and building projects</li>
+                <li>Gaming and exploring virtual worlds</li>
+                <li>Learning new skills</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Devyn</p>
+    </footer>
+
+</body>
+</html>
