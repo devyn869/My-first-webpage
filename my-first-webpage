@@ -10,8 +10,8 @@
         <h1>Welcome to My Page</h1>
         <nav>
             <ul>
-                <li><a href="#about">About</a></li>
-                <li><a href="#interests">Interests</a></li>
+                <li><a href="#about">I love to read books, work, play games, spend time with animals, and explore!</a></li>
+                <li><a href="#interests">Nature, Music, Reading, Video games, and sleeping!</a></li>
             </ul>
         </nav>
     </header>
@@ -20,7 +20,7 @@
         <section id="about">
             <h2>About Me</h2>
             <p>Hello! I am learning web development and building my first web page using semantic HTML.</p>
-            <img src="placeholder.jpg" alt="A descriptive description of the image goes here">
+          <img src="cap.jpeg" alt="Cute Capybara with an orange on its head" />
         </section>
 
         <section id="interests">
